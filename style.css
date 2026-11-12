@@ -304,3 +304,4 @@ cite{font-style:normal;font-weight:700;color:var(--granat)}
   .hero-in::after{top:88px;bottom:92px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+#kontakt{padding-bottom:0}
